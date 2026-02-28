@@ -1,0 +1,480 @@
+[
+  {
+    "id": "b9a240c218164c8bbe347c3c89bd6835",
+    "name": null,
+    "email": null,
+    "word_count": 471,
+    "score": 80.5,
+    "star_rating": 4.0,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-26T20:06:53.418631Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 95.0,
+      "experience_relevance": 70.0,
+      "projects": 50.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 94.0,
+    "recommendation": "Hire",
+    "matched_skills": [
+      "c",
+      "data analysis",
+      "deep learning",
+      "flask",
+      "git",
+      "javascript",
+      "machine learning",
+      "node",
+      "pandas",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "e0454f35d4254c01b339b4cd2289d4ee",
+    "name": null,
+    "email": "ganeshkumar.ai23@bmsce.ac.in",
+    "word_count": 232,
+    "score": 69.0,
+    "star_rating": 3.5,
+    "strengths": [
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Add or strengthen sections like Summary, Experience, Education, Skills, and Projects.",
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-26T20:06:53.467048Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 75.0,
+      "experience_relevance": 70.0,
+      "projects": 40.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 91.0,
+    "recommendation": "Consider",
+    "matched_skills": [
+      "c",
+      "java",
+      "javascript",
+      "machine learning",
+      "node",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "0a8e4d5987174573812eb57340069496",
+    "name": null,
+    "email": "ankithl135@gmail.com",
+    "word_count": 678,
+    "score": 72.0,
+    "star_rating": 3.6,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:20:34.165219Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 75.0,
+      "experience_relevance": 70.0,
+      "projects": 60.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 100.0,
+    "recommendation": "Hire",
+    "matched_skills": [
+      "c",
+      "data analysis",
+      "deep learning",
+      "git",
+      "javascript",
+      "machine learning",
+      "python",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "0285a1050e264dcc9cf1a80e852e80c2",
+    "name": null,
+    "email": "ganeshkumar.ai23@bmsce.ac.in",
+    "word_count": 232,
+    "score": 69.0,
+    "star_rating": 3.5,
+    "strengths": [
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Add or strengthen sections like Summary, Experience, Education, Skills, and Projects.",
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:21:16.653308Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 75.0,
+      "experience_relevance": 70.0,
+      "projects": 40.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 91.0,
+    "recommendation": "Consider",
+    "matched_skills": [
+      "c",
+      "java",
+      "javascript",
+      "machine learning",
+      "node",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "e6f32105a9e34ffd8f998037fde9e276",
+    "name": null,
+    "email": "ganeshkumar.ai23@bmsce.ac.in",
+    "word_count": 232,
+    "score": 69.0,
+    "star_rating": 3.5,
+    "strengths": [
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Add or strengthen sections like Summary, Experience, Education, Skills, and Projects.",
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:21:18.742937Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 75.0,
+      "experience_relevance": 70.0,
+      "projects": 40.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 91.0,
+    "recommendation": "Consider",
+    "matched_skills": [
+      "c",
+      "java",
+      "javascript",
+      "machine learning",
+      "node",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "a16959c964e5447a95d6c1de537232f5",
+    "name": null,
+    "email": null,
+    "word_count": 471,
+    "score": 80.5,
+    "star_rating": 4.0,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:21:52.815281Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 95.0,
+      "experience_relevance": 70.0,
+      "projects": 50.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 94.0,
+    "recommendation": "Hire",
+    "matched_skills": [
+      "c",
+      "data analysis",
+      "deep learning",
+      "flask",
+      "git",
+      "javascript",
+      "machine learning",
+      "node",
+      "pandas",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "56d09b74ccdb46f5a418496a675f8846",
+    "name": null,
+    "email": "ganeshkumar.ai23@bmsce.ac.in",
+    "word_count": 232,
+    "score": 69.0,
+    "star_rating": 3.5,
+    "strengths": [
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Add or strengthen sections like Summary, Experience, Education, Skills, and Projects.",
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:21:52.853634Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 75.0,
+      "experience_relevance": 70.0,
+      "projects": 40.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 91.0,
+    "recommendation": "Consider",
+    "matched_skills": [
+      "c",
+      "java",
+      "javascript",
+      "machine learning",
+      "node",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "43f3f70cf33741f184d517aeca2c3fc3",
+    "name": null,
+    "email": null,
+    "word_count": 471,
+    "score": 80.5,
+    "star_rating": 4.0,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:35:22.299081Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 95.0,
+      "experience_relevance": 70.0,
+      "projects": 50.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 94.0,
+    "recommendation": "Hire",
+    "matched_skills": [
+      "c",
+      "data analysis",
+      "deep learning",
+      "flask",
+      "git",
+      "javascript",
+      "machine learning",
+      "node",
+      "pandas",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "140a08b1b1434b36ae4c8820263433c8",
+    "name": null,
+    "email": null,
+    "word_count": 471,
+    "score": 80.5,
+    "star_rating": 4.0,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:47:14.057789Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 95.0,
+      "experience_relevance": 70.0,
+      "projects": 50.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 94.0,
+    "recommendation": "Hire",
+    "matched_skills": [
+      "c",
+      "data analysis",
+      "deep learning",
+      "flask",
+      "git",
+      "javascript",
+      "machine learning",
+      "node",
+      "pandas",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "1b04871eaf5e489abbad018b330893e2",
+    "name": null,
+    "email": null,
+    "word_count": 471,
+    "score": 80.5,
+    "star_rating": 4.0,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:47:51.172712Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 95.0,
+      "experience_relevance": 70.0,
+      "projects": 50.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 94.0,
+    "recommendation": "Hire",
+    "matched_skills": [
+      "c",
+      "data analysis",
+      "deep learning",
+      "flask",
+      "git",
+      "javascript",
+      "machine learning",
+      "node",
+      "pandas",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "id": "60fddca7b5694dc7a1b67bcf52bd2d48",
+    "name": null,
+    "email": "ganeshkumar.ai23@bmsce.ac.in",
+    "word_count": 232,
+    "score": 69.0,
+    "star_rating": 3.5,
+    "strengths": [
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Add or strengthen sections like Summary, Experience, Education, Skills, and Projects.",
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:47:51.211029Z",
+    "job_description_provided": false,
+    "job_match_score": null,
+    "category_scores": {
+      "core_skills": 75.0,
+      "experience_relevance": 70.0,
+      "projects": 40.0,
+      "education": 100.0,
+      "certifications": 30.0
+    },
+    "ats_score": 91.0,
+    "recommendation": "Consider",
+    "matched_skills": [
+      "c",
+      "java",
+      "javascript",
+      "machine learning",
+      "node",
+      "python",
+      "react",
+      "sql",
+      "typescript"
+    ],
+    "missing_skills": []
+  },
+  {
+    "name": null,
+    "email": "ankithl135@gmail.com",
+    "word_count": 678,
+    "score": 75.25,
+    "star_rating": 3.8,
+    "strengths": [
+      "Good coverage of key resume sections.",
+      "Strong skills section with relevant technologies.",
+      "Resume length is appropriate and easy to read."
+    ],
+    "improvements": [
+      "Clarify your years of experience and responsibilities in each role."
+    ],
+    "timestamp": "2026-02-28T17:54:19.313480Z",
+    "job_description_provided": false,
+    "job_match_score": null
+  }
+]
