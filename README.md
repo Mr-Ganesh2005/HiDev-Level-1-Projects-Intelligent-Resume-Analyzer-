@@ -94,7 +94,8 @@ pip install -r requirements.txt
 Run the following command:
 
 ```
-cd resume_analyzer_project && python app.py
+cd H1/resume_analyzer_project && pip3 install -r requirements.txt && python3 app.py
+
 ```
 
 The Flask server will start and open the application in your browser.
